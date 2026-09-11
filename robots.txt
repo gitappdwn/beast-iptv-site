@@ -6,4 +6,4 @@ Disallow: /admin/
 Disallow: /checkout/thank-you/
 
 # Sitemap location
-Sitemap: https://beast-iptv​.store/sitemap.xml
+Sitemap: https://beast-iptv.store/sitemap.xml
